@@ -40,6 +40,20 @@ function App() {
         </div>
       </main>
 
+      {/* Contact Us Section */}
+      <section className="p-5 md:p-10 bg-base-100 text-base-content">
+        <h2 className="text-2xl font-bold mb-4">Let Us Reach Out to You</h2>
+        <div className="flex flex-col md:flex-row items-center">
+          <input
+            type="email"
+            placeholder="Enter your email"
+            className="input input-bordered w-full md:w-1/2 mb-4 md:mb-0 md:mr-4"
+          />
+          <button className="btn btn-primary">Submit</button>
+        </div>
+      </section>
+
+      {/* Footer Section */}
       <footer className="footer p-5 md:p-10 bg-base-100 text-base-content">
         <div>
           <span className="footer-title">Services</span>
@@ -49,9 +63,15 @@ function App() {
         </div>
         <div>
           <span className="footer-title">Company</span>
+          <a href="https://www.linkedin.com/company/nephelis/about/" className="link link-hover" target="_blank" rel="noopener noreferrer">
+            LinkedIn
+          </a>
           <a className="link link-hover">About Us</a>
-          <a className="link link-hover">Contact</a>
-          <a className="link link-hover">Careers</a>
+        </div>
+        <div>
+          <span className="footer-title">Contact</span>
+          <p>Mete Yaka</p>
+          <p>+90 538 373 01 66</p>
         </div>
       </footer>
     </div>
