@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.672be999.css",
-    "main.js": "/static/js/main.b5c77f67.js",
+    "main.js": "/static/js/main.b6ac5533.js",
     "static/js/453.0ab489a9.chunk.js": "/static/js/453.0ab489a9.chunk.js",
     "static/media/Nephelis.png": "/static/media/Nephelis.975c7f071cb683b3ff46.png",
     "index.html": "/index.html",
     "main.672be999.css.map": "/static/css/main.672be999.css.map",
-    "main.b5c77f67.js.map": "/static/js/main.b5c77f67.js.map",
+    "main.b6ac5533.js.map": "/static/js/main.b6ac5533.js.map",
     "453.0ab489a9.chunk.js.map": "/static/js/453.0ab489a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.672be999.css",
-    "static/js/main.b5c77f67.js"
+    "static/js/main.b6ac5533.js"
   ]
 }
