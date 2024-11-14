@@ -70,7 +70,7 @@ function App() {
         </div>
         <div>
           <span className="footer-title">Contact</span>
-	  <p>Metehan Yaka</p>
+	  <p>nephelis@gmail.com</p>
           <p>Metehan Yaka</p>
           <p>+90 538 373 01 66</p>
         </div>
