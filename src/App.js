@@ -24,15 +24,13 @@ function Home() {
           Nephelis is a cutting-edge SaaS-based performance and automated non-functional testing framework
           designed to address industry challenges like cost, complexity, and scalability. By integrating 
           the Grafana k6 framework, Nephelis delivers a user-friendly interface for real-time load testing, 
-          equipped with AI-driven insights. The platform's scalable architecture makes it suitable for 
-          various team sizes, leveraging a cost-effective pay-as-you-go model.
+          equipped with AI-driven insights.
         </p>
-        <p className="text-base md:text-lg mt-4">
-          Key features include real-time performance analysis, efficient integration with CI/CD pipelines, 
-          and cloud-based infrastructure that dynamically scales resources. The platform aims to optimize 
-          software performance, reduce fixed costs, and ensure reliability under peak loads, making it a 
-          valuable tool for both startups and large enterprises.
-        </p>
+        <button
+          onClick={() => window.location.href = "https://senin-hostladigin-site.github.io"}
+          className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-700"
+        >
+        </button>
       </div>
 
       <div className="w-full md:w-1/3 flex justify-center">
